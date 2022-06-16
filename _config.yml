@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ross Lawrence"
   avatar           : "profile.png"
-  bio              : "Sr. Programmer Analyst at Johns Hopkins Department of Cognitive Neurology"
+  bio              : "Sr. Programmer Analyst"
   location         : "Baltimore, MD"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  employer         : Johns Hopkins University
+  pubmed           : 
+  googlescholar    : 
+  email            : "lawreros@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "ross-lawrence-94117995"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
