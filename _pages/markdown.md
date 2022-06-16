@@ -171,6 +171,15 @@ This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styl
 
 This tag styles large blocks of code.
 
+```python
+import pytorch
+
+for i in something:
+  print(i)
+try doing this instead
+but Ill keep writing
+```
+
 <pre>
 .post-title {
   margin: 0 0 5px;

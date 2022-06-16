@@ -39,7 +39,7 @@ $type-size-3                : 1.563em;  // ~25.008px
 $type-size-4                : 1.25em;   // ~20px
 $type-size-5                : 1em;      // ~16px
 $type-size-6                : 0.75em;   // ~12px
-$type-size-7                : 0.6875em; // ~11px
+$type-size-7                : 0.8em; // ~13px Note: Sets the font side of the code blocks
 $type-size-8                : 0.625em;  // ~10px
 
 
@@ -48,15 +48,15 @@ $type-size-8                : 0.625em;  // ~10px
    ========================================================================== */
 
 $gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$dark-gray                  : mix(#fff, $gray, 60%);
+$darker-gray                : mix(#fff, $gray, 50%);
+$light-gray                 : mix(#000, $gray, 90%);
+$lighter-gray               : mix(#000, $gray, 50%);
 
 $body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
+$background-color           : #000; //This controls the color of the page
+$code-background-color      : $light-gray;
+$code-background-color-dark : $lighter-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
 

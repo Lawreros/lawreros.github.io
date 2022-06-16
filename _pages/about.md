@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+![test this](./images/neuro_atlas.png)
+
 ## About me
-I greq up in Springfield, PA, just outside of Philadelphia. I recieved a B.S. in Bioengineering from the University of Pittsburgh, with a minor in Mechanical Engineering. While I originally worked with muscle regeneration in a wet lab environment, I eventually found myself working with medical images. I recieved my M.S.E. in Bioengineering at Johns Hopkins, with a Data Science concentration.
+I grew up in [Springfield, PA](https://www.springfielddelco.org/), just outside of Philadelphia. I recieved a B.S. in Bioengineering from the University of Pittsburgh, with a minor in Mechanical Engineering. While I originally worked with muscle regeneration in a wet lab environment, I eventually found myself working with medical images. I recieved my M.S.E. in Bioengineering at Johns Hopkins, with a Data Science concentration.
 
 ## What I'm currently working on
 I like to pursue multiple projects both for professional and personal development. Currently I am working on:
