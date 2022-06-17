@@ -13,21 +13,22 @@ redirect_from:
 | Neuroparc atlas registered to reference anatomical MRI data  |
 
 ## About me
-I grew up in [Springfield, PA](https://www.springfielddelco.org/), just outside of Philadelphia. I recieved a B.S. in Bioengineering from the [University of Pittsburgh](https://www.engineering.pitt.edu/bioengineering), with a minor in Mechanical Engineering. While I originally worked with muscle regeneration in a wet lab environment, I eventually found myself working with medical images. I recieved my M.S.E.in Bioengineering at [Johns Hopkins](https://www.bme.jhu.edu/), with a Data Science concentration.
+I grew up in [Springfield, PA](https://www.springfielddelco.org/), just outside of Philadelphia. I recieved a B.S. in Bioengineering from the [University of Pittsburgh](https://www.engineering.pitt.edu/bioengineering), with a minor in Mechanical Engineering. While I originally worked with muscle regeneration in a wet lab environment, I eventually found myself working with medical images after an influential class at [Carnegie Mellon University](https://www.cmu.edu/). After graduation I worked at the Johns Hopkins School of Medicine researching memroy development in children, which entailed collecting MRI data from children as they performed memory tasks. I later worked with Dr. Joshua Vogelstein on the connectome analysis pipeline m2g, during which I recieved my M.S.E. in Bioengineering at [Johns Hopkins](https://www.bme.jhu.edu/), with a Data Science concentration.
+
+I'm currently a Senior Programmer Analyst in the Johns Hopkins University Department of Cognitive Neurology studying the relationship between physiological signals and affect in individuals with ASD-3. Because most individuals with ASD-3 are nonverbal and have difficulty outwardly displaying their discomfort/feelings, they are prone to outbursts/problematic behavior without significant warning. The goal of this project is to research predictive methods which can be used as tools to notify caretakers/teachers of oncoming problematic episodes so they can be preemptively addressed.
+
+## Professional Interests:
+I'm interested in:
+- Medical Image Analysis
+- Machine Learning
+- Open-Source efforts
 
 ## What I'm currently working on
 I like to pursue multiple projects both for professional and personal development. Currently I am working on:
 - [Autism research](./projects/ASD-3) <!-- Link to project page going over this -->
 - [MRI super resolution](./projects/SR_MRI) <!-- Link to github file and potentally pull from result image on github? -->
 - [X-ray classification](./projects/x-ray_classifier_kaggle)
-
-
-## Professional Interests:
-I'm interested in...
-- Example 1 (include links)
-- Example 2
-- Example 3
-
+- [Obsidian Repository](./projects/obsidian)
 
 
 ## Languages and Tools:
@@ -50,7 +51,6 @@ I'm interested in...
 <p></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lawreros&show_icons=true&locale=en&theme=dark" alt="lawreros" /></p>
-
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
