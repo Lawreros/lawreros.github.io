@@ -17,9 +17,9 @@ I grew up in [Springfield, PA](https://www.springfielddelco.org/), just outside 
 
 ## What I'm currently working on
 I like to pursue multiple projects both for professional and personal development. Currently I am working on:
-- Autism research <!-- Link to project page going over this -->
-- MRI super resolution <!-- Link to github file and potentally pull from result image on github? -->
-- X-ray classification
+- [Autism research](./projects/ASD-3) <!-- Link to project page going over this -->
+- [MRI super resolution](./projects/SR_MRI) <!-- Link to github file and potentally pull from result image on github? -->
+- [X-ray classification](./projects/x-ray_classifier_kaggle)
 
 
 ## Professional Interests:
@@ -27,6 +27,8 @@ I'm interested in...
 - Example 1 (include links)
 - Example 2
 - Example 3
+
+
 
 ## Languages and Tools:
 <div style="background-color: #fff; padding: 5px; border: 1px solid gray;">
