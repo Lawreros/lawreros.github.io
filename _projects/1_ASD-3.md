@@ -4,4 +4,4 @@ excerpt: "Studying the relationship between physiological signals and affect in 
 collection: projects
 ---
 
-So this is what I'm writing about to make sure that things are working properly...
+This 
