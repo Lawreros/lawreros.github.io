@@ -138,6 +138,8 @@
   z-index: 10;
   position: relative;
   cursor: pointer;
+  //Note: allows you to set the color and opacity of the background
+  background-color: $opaque-background-color;
 
   li:last-child {
     a {

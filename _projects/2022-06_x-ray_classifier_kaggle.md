@@ -5,4 +5,6 @@ collection: projects
 date: 2022-06-30
 ---
 
-So this is what I'm writing about to make sure that things are working properly...
+An assignment on kaggle to classify different major parts of the body from provided X-ray images.
+
+Linked Github can be found [here](https://github.com/Lawreros/x-ray_classification)

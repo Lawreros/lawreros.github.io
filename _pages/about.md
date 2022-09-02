@@ -32,7 +32,7 @@ I like to pursue multiple projects both for professional and personal developmen
 
 
 ## Languages and Tools:
-<div style="background-color: #fff; padding: 5px; border: 1px solid gray;">
+<div style="background-color: #E5E9F0; opacity: 0.9; padding: 5px; border: 1px solid gray;">
 
 <p align="center" padding="2px"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
