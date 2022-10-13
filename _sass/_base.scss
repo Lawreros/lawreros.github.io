@@ -14,7 +14,13 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
-  background-image: url('../../images/background1.png');
+  
+  //Note: Below (until &.overflow) controls the background image for the whole website and prevents it from changing when scrolling
+  background-image: $bg-img;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
