@@ -23,8 +23,14 @@
     @include suffix(2 of 12);
   }
 
-  .page__inner-wrap {
+  .page__inner-wrap { //Note: Controls the formatting of the markdown files for the individual blog posts and project descriptions
     @include full();
+    border-radius: $border-radius;
+    background-color: $opaque-background-color;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+    padding-top: 1em;
 
     .page__content,
     .page__meta,

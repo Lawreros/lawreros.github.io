@@ -73,6 +73,7 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
+  margin: auto; //Note: Add margin = auto in order to center the avatar image to the center of the sidebar
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -93,12 +94,13 @@
   }
 }
 
-.author__content {
+.author__content { //Note: The title put directly below the author image
   display: table-cell;
   vertical-align: top;
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
+  text-align: center;
 
   @include breakpoint($large) {
     display: block;
@@ -138,8 +140,11 @@
   z-index: 10;
   position: relative;
   cursor: pointer;
-  //Note: allows you to set the color and opacity of the background
+  //Note: allows you to set the color and opacity of the background for the sidebar
   background-color: $opaque-background-color;
+  border-radius: $border-radius;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
 
   li:last-child {
     a {

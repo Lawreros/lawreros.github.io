@@ -59,7 +59,8 @@ small, .small {
 }
 
 p {
-  margin-bottom: 1.3em;
+  margin-bottom: 0.2em; //Note: Change from margin-bottom: 1.3em in order to make the rounded boxes look better
+  margin-top: 0.2em;
 }
 
 u,

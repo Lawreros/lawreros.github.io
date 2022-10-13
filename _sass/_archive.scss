@@ -42,7 +42,7 @@
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
-
+  padding-top: 0.5em; //Note: Add some space between the text and the upper border
   a + a {
     opacity: 0.5;
   }
@@ -89,7 +89,13 @@
    List view
    ========================================================================== */
 
-.list__item {
+.list__item {//Note: This controls pretty much every block of text/item on this website. This is what all entries on the Projects,
+              // Publications, and Blog Posts preview pages use for formatting
+  border-radius: $border-radius;
+  background-color: $opaque-background-color;
+  padding-left: 1em;
+  padding-bottom: 1em;
+
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
   }
