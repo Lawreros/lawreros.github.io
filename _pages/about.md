@@ -12,28 +12,28 @@ redirect_from:
 |:--:|
 | Neuroparc atlas registered to reference anatomical MRI data  |
 
-## About me
-I grew up in [Springfield, PA](https://www.springfielddelco.org/), just outside of Philadelphia. I recieved a B.S. in Bioengineering from the [University of Pittsburgh](https://www.engineering.pitt.edu/bioengineering), with a minor in Mechanical Engineering. While I originally worked with muscle regeneration in a wet lab environment, I eventually found myself working with medical images after an influential class at [Carnegie Mellon University](https://www.cmu.edu/). After graduation I worked at the Johns Hopkins School of Medicine researching memroy development in children, which entailed collecting MRI data from children as they performed memory tasks. I later worked with Dr. Joshua Vogelstein on the connectome analysis pipeline m2g, during which I recieved my M.S.E. in Bioengineering at [Johns Hopkins](https://www.bme.jhu.edu/), with a Data Science concentration.
-
-I'm currently a Senior Programmer Analyst in the Johns Hopkins University Department of Cognitive Neurology studying the relationship between physiological signals and affect in individuals with ASD-3. Because most individuals with ASD-3 are nonverbal and have difficulty outwardly displaying their discomfort/feelings, they are prone to outbursts/problematic behavior without significant warning. The goal of this project is to research predictive methods which can be used as tools to notify caretakers/teachers of oncoming problematic episodes so they can be preemptively addressed.
-
 ## Professional Interests:
-I'm interested in:
-- Medical Image Analysis
-- Machine Learning
-- Open-Source efforts
+While I'm iterested in a wide variety of subjects, my professional work has revolved around a few core topics:
 
-## What I'm currently working on
-I like to pursue multiple projects both for professional and personal development. Currently I am working on:
-- [Autism research](./projects/ASD-3) <!-- Link to project page going over this -->
-- [MRI super resolution](./projects/SR_MRI) <!-- Link to github file and potentally pull from result image on github? -->
-- [X-ray classification](./projects/x-ray_classifier_kaggle)
-- [Obsidian Repository](./projects/obsidian)
+### 1. Medical Imaging and Analysis:
+While I enjoy working with analysis of images of all types, medical imaging poses and particularly intersting puzzle to solve. The challenge of 3D image analysis with immediate benefit to something or other... This first began with my application of Phasespace analysis...
+### 2. Machine Learning:
+This is a particularly broad topic, I know, but all things Neural Network and somehting or other:
+Convolutional Neural Networks:
+### 3. Open-Source efforts:
+I try my best to make all of my work publically available, with good documentation...
+
+## Projects
+While my work keeps me busy, I try to continually expand my skillset by working on personal projects (mainly in the form of coding prototypes of interesting things I read in journals). To see the various projects I am working, please visit the `Projects` tab. There I keep track of the projects I have completed/am currently working on.
+<!-- - [Autism research](./projects/ASD-3) -->
+<!-- - [MRI super resolution](./projects/SR_MRI) -->
+<!-- - [X-ray classification](./projects/x-ray_classifier_kaggle) -->
+<!-- - [Obsidian Repository](./projects/obsidian) -->
 
 
 ## Languages and Tools:
-<div style="background-color: #E5E9F0; opacity: 0.9; padding: 5px; border: 1px solid gray;">
-
+<!-- <div style="background-color: #E5E9F0; opacity: 0.9; padding: 5px; border: 1px solid gray;"> -->
+<div>
 <p align="center" padding="2px"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -48,9 +48,14 @@ I like to pursue multiple projects both for professional and personal developmen
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
   <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
 </div>
-<p></p>
+<!-- <p></p> -->
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lawreros&show_icons=true&locale=en&theme=dark" alt="lawreros" /></p> -->
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lawreros&show_icons=true&locale=en&theme=dark" alt="lawreros" /></p>
 
+## About Me
+I grew up in [Springfield, PA](https://www.springfielddelco.org/), just outside of Philadelphia. I recieved a B.S. in Bioengineering from the [University of Pittsburgh](https://www.engineering.pitt.edu/bioengineering), with a minor in Mechanical Engineering. While I originally worked with muscle regeneration in a wet lab environment, I eventually found myself working with medical images after an influential class at [Carnegie Mellon University](https://www.cmu.edu/). After graduation I worked at the Johns Hopkins School of Medicine researching memroy development in children, which entailed collecting MRI data from children as they performed memory tasks. I later worked with Dr. Joshua Vogelstein on the connectome analysis pipeline m2g, during which I recieved my M.S.E. in Bioengineering at [Johns Hopkins](https://www.bme.jhu.edu/), with a Data Science concentration.
 
-<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
+I'm currently a Senior Programmer Analyst in the Johns Hopkins University Department of Cognitive Neurology studying the relationship between physiological signals and affect in individuals with ASD-3. Because most individuals with ASD-3 are nonverbal and have difficulty outwardly displaying their discomfort/feelings, they are prone to outbursts/problematic behavior without significant warning. The goal of this project is to research predictive methods which can be used as tools to notify caretakers/teachers of oncoming problematic episodes so they can be preemptively addressed.
+
+## Monthly Work Updates
+For updates on what I'm doing on a month-by-month basis, take a look at the `Blog Posts` page. There I write short updates on interesting things I'm working on.
