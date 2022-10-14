@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ross Lawrence"
-  avatar           : "profile.png"
+  avatar           : "/custom/profile.png"
   bio              : "Sr. Programmer Analyst"
   location         : "Baltimore, MD"
   employer         : Johns Hopkins University

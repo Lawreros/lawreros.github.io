@@ -1,6 +1,6 @@
 ---
 title: "Obsidian Knowledge Repository"
-excerpt: "Repository of knowledge obtained started when attending Johns Hopkins University for my M.S.E. <br/><img src='/images/obsidian_network.png' width='500' height='300'>"
+excerpt: "Repository of knowledge obtained started when attending Johns Hopkins University for my M.S.E. <br/><img src='/images/custom/obsidian_network.png' width='500' height='300'>"
 collection: projects
 ---
 

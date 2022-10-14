@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-| ![test this](./images/neuro_atlas.png)  |
+| ![test this](./images/custom/neuro_atlas.png)  |
 |:--:|
 | Neuroparc atlas registered to reference anatomical MRI data  |
 
