@@ -46,7 +46,7 @@ $type-size-8                : 0.625em;  // ~10px
 /*
    Background Image
    ========================================================================== */
-$bg-img                     :url('../../images/custom/background1.png');
+$bg-img                     :url('../../images/custom/brain_background.jpg');
 
 /*
    Colors
@@ -61,7 +61,7 @@ $lighter-gray               : mix(#000, $gray, 50%);
 // Currently using Nordic colors: https://www.nordtheme.com/
 $body-color                 : #E5E9F0;
 $background-color           : #384252;//This controls the color of the page
-$opaque-background-color    : rgba($background-color, 0.5);
+$opaque-background-color    : rgba($background-color, 0.9);
 $code-background-color      : #2E3440;//$light-gray;
 $code-background-color-dark : #384252;//$lighter-gray;
 $text-color                 : #ECEFF4;//$dark-gray;

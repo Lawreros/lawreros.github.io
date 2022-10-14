@@ -100,6 +100,10 @@
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
+  border-radius: $border-radius;
+  background-color: $opaque-background-color;
+  // padding-bottom: 0.05em;
+  padding-top: 0.1em;
   text-align: center;
 
   @include breakpoint($large) {
@@ -111,11 +115,11 @@
 }
 
 .author__name {
-  margin: 0;
+  margin: 0em;
 
   @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
   }
 }
 .sidebar .author__name {
@@ -124,11 +128,11 @@
 }
 
 .author__bio {
-  margin: 0;
+  margin: 1em;
 
   @include breakpoint($large) {
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
   }
 }
 
