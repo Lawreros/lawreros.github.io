@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sr. Programmer Analyst"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Ross Lawrence"
 description              : &description "Working at Johns Hopkins"
