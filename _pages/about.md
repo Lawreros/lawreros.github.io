@@ -16,15 +16,14 @@ redirect_from:
 While I'm iterested in a wide variety of subjects, my professional work has revolved around a few core topics:
 
 ### 1. Medical Imaging and Analysis:
-While I enjoy working with analysis of images of all types, medical imaging poses and particularly intersting puzzle to solve. The challenge of 3D image analysis with immediate benefit to something or other... This first began with my application of Phasespace analysis...
+While I enjoy working with analysis of images of all types, medical images have always been a particular fascination of mine since I took a *Medical Image Analysis* class at [Carnegie Mellon University](https://www.cmu.edu/). The challenge of 2D/3D/4D image analysis (sometimes across modalities) with the undeniable benefit of further refinement of collection/analysis techniques in the field captivates me.
 ### 2. Machine Learning:
-This is a particularly broad topic, I know, but all things Neural Network and somehting or other:
-Convolutional Neural Networks:
+This is a particularly broad topic, I know, but the application of ML techniques on medical images in particular is a passion of mine. Most of my experience involves convolutional neural networks, but I'm always expanding my experience with other techniques. You can visit at the `Projects` page for examples of these projects.
 ### 3. Open-Source efforts:
-I try my best to make all of my work publically available, with good documentation...
+I am a firm believer in open-source code. I try my best to make all of my work publically available, with good documentation so it can be utilized by others. While I've only contributed to 2-3 larger code repositories, I plan on increasing this as my skills improve.
 
 ## Projects
-While my work keeps me busy, I try to continually expand my skillset by working on personal projects (mainly in the form of coding prototypes of interesting things I read in journals). To see the various projects I am working, please visit the `Projects` tab. There I keep track of the projects I have completed/am currently working on.
+While my work keeps me busy, I try to continually expand my skillset by working on personal projects (mainly in the form of coding prototypes of interesting things I read in journals). To see the various projects I have finished/am currently working on, please visit the `Projects` page. There I provide more detailed descriptions and links to my work.
 <!-- - [Autism research](./projects/ASD-3) -->
 <!-- - [MRI super resolution](./projects/SR_MRI) -->
 <!-- - [X-ray classification](./projects/x-ray_classifier_kaggle) -->
@@ -55,7 +54,7 @@ While my work keeps me busy, I try to continually expand my skillset by working 
 ## About Me
 I grew up in [Springfield, PA](https://www.springfielddelco.org/), just outside of Philadelphia. I recieved a B.S. in Bioengineering from the [University of Pittsburgh](https://www.engineering.pitt.edu/bioengineering), with a minor in Mechanical Engineering. While I originally worked with muscle regeneration in a wet lab environment, I eventually found myself working with medical images after an influential class at [Carnegie Mellon University](https://www.cmu.edu/). After graduation I worked at the Johns Hopkins School of Medicine researching memroy development in children, which entailed collecting MRI data from children as they performed memory tasks. I later worked with Dr. Joshua Vogelstein on the connectome analysis pipeline m2g, during which I recieved my M.S.E. in Bioengineering at [Johns Hopkins](https://www.bme.jhu.edu/), with a Data Science concentration.
 
-I'm currently a Senior Programmer Analyst in the Johns Hopkins University Department of Cognitive Neurology studying the relationship between physiological signals and affect in individuals with ASD-3. Because most individuals with ASD-3 are nonverbal and have difficulty outwardly displaying their discomfort/feelings, they are prone to outbursts/problematic behavior without significant warning. The goal of this project is to research predictive methods which can be used as tools to notify caretakers/teachers of oncoming problematic episodes so they can be preemptively addressed.
+I'm currently a Senior Programmer Analyst in the Johns Hopkins University [Department of Cognitive Neurology](https://web.jhu.edu/cognitiveneurology/) studying the relationship between physiological signals and affect in individuals with ASD-3. Because most individuals with ASD-3 are nonverbal and have difficulty outwardly displaying their discomfort/feelings, they are prone to outbursts/problematic behavior without significant warning. The goal of this project is to research predictive methods which can be used as tools to notify caretakers/teachers of oncoming problematic episodes so they can be preemptively addressed.
 
 ## Monthly Work Updates
 For updates on what I'm doing on a month-by-month basis, take a look at the `Blog Posts` page. There I write short updates on interesting things I'm working on.

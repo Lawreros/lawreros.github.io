@@ -1,6 +1,6 @@
 ---
 title: "Super-Resolution Imaging"
-excerpt: "Creating models for increasing the resolution of medical images <br/><img src='/images/custom/SR_Image.png' width='500' height='300'>"
+excerpt: "Creating machine learning models for increasing the resolution of medical images <br/><img src='/images/custom/SR_Image.png' width='400' height='300'>"
 collection: projects
 ---
 

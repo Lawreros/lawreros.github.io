@@ -1,6 +1,6 @@
 ---
 title: "Autism and Affect"
-excerpt: "Studying the relationship between physiological signals and affect in individuals with ASD-3 <br/><img src='/images/custom/PSHR_image.png' width='500' height='300'>"
+excerpt: "Studying the relationship between physiological signals and affect in individuals with ASD-3 <br/><img src='/images/custom/PSHR_image.png' width='400' height='300'>"
 collection: projects
 ---
 

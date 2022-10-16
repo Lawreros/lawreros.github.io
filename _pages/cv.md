@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src = "/files/resume_2022.pdf" width='100%' height="1000"></iframe>
+<iframe src = "/files/resume_2022.pdf" width='100%' height="900"></iframe>
