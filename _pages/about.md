@@ -13,17 +13,17 @@ redirect_from:
 | Neuroparc atlas registered to reference anatomical MRI data  |
 
 ## Professional Interests:
-While I'm iterested in a wide variety of subjects, my professional work has revolved around a few core topics:
+While I'm interested in a wide variety of subjects, my professional work has revolved around a few core topics:
 
 ### 1. Medical Imaging and Analysis:
 While I enjoy working with analysis of images of all types, medical images have always been a particular fascination of mine since I took a *Medical Image Analysis* class at [Carnegie Mellon University](https://www.cmu.edu/). The challenge of 2D/3D/4D image analysis (sometimes across modalities) with the undeniable benefit of further refinement of collection/analysis techniques in the field captivates me.
 ### 2. Machine Learning:
-This is a particularly broad topic, I know, but the application of ML techniques on medical images in particular is a passion of mine. Most of my experience involves convolutional neural networks, but I'm always expanding my experience with other techniques. You can visit at the `Projects` page for examples of these projects.
+While this is a particularly broad topic, the application of ML techniques on medical images in particular is a passion of mine. Most of my experience involves convolutional neural networks, but I'm always expanding my experience with other techniques. You can visit at the `Projects` page for examples of these projects.
 ### 3. Open-Source efforts:
 I am a firm believer in open-source code. I try my best to make all of my work publically available, with good documentation so it can be utilized by others. While I've only contributed to 2-3 larger code repositories, I plan on increasing this as my skills improve.
 
 ## Projects
-While my work keeps me busy, I try to continually expand my skillset by working on personal projects (mainly in the form of coding prototypes of interesting things I read in journals). To see the various projects I have finished/am currently working on, please visit the `Projects` page. There I provide more detailed descriptions and links to my work.
+While my work keeps me busy, I try to continually expand my skillset by working on personal projects. This mainly takes the form of coding prototypes of interesting things I read in journals in order to gain a better understanding. To see the various projects I have finished/am currently working on, please visit the `Projects` page. There I provide more detailed descriptions and links to my work.
 <!-- - [Autism research](./projects/ASD-3) -->
 <!-- - [MRI super resolution](./projects/SR_MRI) -->
 <!-- - [X-ray classification](./projects/x-ray_classifier_kaggle) -->

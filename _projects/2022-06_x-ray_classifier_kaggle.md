@@ -5,6 +5,6 @@ collection: projects
 date: 2022-06-30
 ---
 
-An assignment on kaggle to classify different major parts of the body from provided X-ray images.
+Selected as a good practice for refamiliarizing myself machine learning and Pytorch. The assignment on kaggle was to classify different major parts of the body from provided X-ray images.
 
 Linked Github can be found [here](https://github.com/Lawreros/x-ray_classification)
