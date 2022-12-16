@@ -13,7 +13,7 @@ redirect_from:
 | Neuroparc atlas registered to reference anatomical MRI data  |
 
 ## Professional Interests:
-While I'm interested in a wide variety of subjects, my professional work has revolved around a few core topics:
+While I'm interested in a wide variety of subjects, my professional work has revolved around a few core topics. If your work involves any of the following and you wish to work together, please down hesitate to contact me:
 
 ### 1. Medical Imaging and Analysis:
 While I enjoy working with analysis of images of all types, medical images have always been a particular fascination of mine since I took a *Medical Image Analysis* class at [Carnegie Mellon University](https://www.cmu.edu/). The challenge of 2D/3D/4D image analysis (sometimes across modalities) with the undeniable benefit of further refinement of collection/analysis techniques in the field captivates me.
